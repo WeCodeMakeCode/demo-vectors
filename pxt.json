@@ -1,0 +1,24 @@
+{
+    "name": "demo vectors",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-vector-math": "github:wecodemakecode/pxt-arcade-vector-math-1#pr-1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.1.5",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
